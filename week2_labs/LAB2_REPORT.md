@@ -1,16 +1,16 @@
 # Lab 2 Report: Git Version Control and Flet GUI Development
 
-**Student Name:** [Your Full Name]
-**Student ID:** [Your Student ID]
-**Section:** [Your Section]
-**Date:** [Submission Date]
+**Student Name:** Gabriel Concepcion
+**Student ID:** 231001672
+**Section:** BSCS-3B
+**Date:** 09/09/25
 
 ## Git Configuration
 
 ### Repository Setup
-- **GitHub Repository:** [Your repository URL]
+- **GitHub Repository:** https://github.com/Dev-Gab02/cccs106-projects
 - **Local Repository:** ✅ Initialized and connected
-- **Commit History:** [Number] commits with descriptive messages
+- **Commit History:** 8 commits with descriptive messages
 
 ### Git Skills Demonstrated
 - ✅ Repository initialization and configuration
@@ -24,14 +24,14 @@
 - **Status:** ✅ Completed
 - **Features:** Interactive greeting, student info display, dialog boxes
 - **UI Components:** Text, TextField, Buttons, Dialog, Containers
-- **Notes:** [Any challenges or observations]
+- **Notes:** N/A
 
 ### 2. personal_info_gui.py
 - **Status:** ✅ Completed
 - **Features:** Form inputs, dropdowns, radio buttons, profile generation
 - **UI Components:** TextField, Dropdown, RadioGroup, Containers, Scrolling
 - **Error Handling:** Input validation and user feedback
-- **Notes:** [Any challenges or observations]
+- **Notes:** N/A
 
 ## Technical Skills Developed
 
@@ -49,13 +49,25 @@
 
 ## Challenges and Solutions
 
-[Describe any difficulties you encountered and how you solved them]
+Challenge: Forgetting to stage files before committing.
+
+Solution: Used git status frequently to verify changes and always staged with git add.
 
 ## Learning Outcomes
 
-[Reflect on what you learned about version control, GUI development, and collaborative programming]
+I learned how Git helps in managing versions of a project and why commit messages are important.
+
+I now understand how to use branches in Git to safely add new features without breaking the main code.
+
+I became familiar with creating simple GUI applications using Flet and handling user input effectively.
+
+This exercise improved my confidence in using both version control and GUI frameworks together in a real project workflow.
 
 ## Screenshots
+![Github_Repository_setup](lab2_screenshots/Github_Repositoty_setup.png)
+![Github_Complete_commit_history](lab2_screenshots/Github_Complete_commit_history.png)
+![hello_flet_output](lab2_screenshots/hello_flet_output.png)
+![personal_gui_output](lab2_screenshots/personal_gui_output.png)
 
 ### Git Repository
 - [ ] GitHub repository with commit history
@@ -67,4 +79,8 @@
 
 ## Future Enhancements
 
-[Ideas for improving the applications or additional features to implement]
+Add an Enhanced Calculator GUI with full arithmetic operations and error handling.
+
+Improve personal_info_gui.py by adding profile picture upload support.
+
+Combine multiple apps into a single dashboard for easier navigation.
