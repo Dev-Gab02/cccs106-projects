@@ -3,4 +3,5 @@ __pycache__/
 .vscode/ 
 *.log 
 .env 
+.env.example
 cccs106_env_concepcion 
